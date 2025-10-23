@@ -1,7 +1,4 @@
-# Tugas Posttest 3 Pemrograman Piranti Bergerak B 2023
-
-Nama : Marlina Yunus
-Nim  : 2109106143
+# Tugas Posttest 3 Pemrograman Piranti Bergerak B Marlina Yunus (2109106143)
 
 Hasil Posttest 3:
 
